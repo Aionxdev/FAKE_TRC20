@@ -102,4 +102,4 @@ With your `TestUSDTTRC20` deployed, you can now use it to test your marketplace:
 
 ## License
 
-This project is licensed under the MIT License - see the `LICENSE` file (if applicable, or simply state here) for details. The underlying OpenZeppelin contracts are also MIT licensed.
+This project is licensed under the MIT License.
